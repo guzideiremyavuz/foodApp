@@ -27,7 +27,7 @@ export default function FoodPage() {
         <Text className="text-[#556B2F] text-2xl font-bold mx-4 mt-4">Hi Rinku</Text>
       </View>
       <View>
-        <Text className="text-black text-3xl font-bold mx-4">Find your food</Text>
+        <Text className="text-black text-3xl font-bold mx-4 my-3">Find your food</Text>
       </View>
       <View className="mx-4 flex-row space-x-0 ">
       <View className="flex-row flex-1 p-4 rounded-2xl "style={{backgroundColor:'rgba(85, 107, 47, 0.5)'}}>
