@@ -69,7 +69,7 @@ export default function FoodPage() {
       </ScrollView>
       {/*Yemek kutuları*/}
       <ScrollView
-      contentContainerStyle={{paddingHorizontal:20}}
+      contentContainerStyle={{paddingHorizontal:30}}
       horizontal showsHorizontalScrollIndicator={false}
       >
         {
